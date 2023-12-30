@@ -6,7 +6,7 @@ import java.util.List;
  * TODO:此处写MovieInfoDto类的描述
  *
  * @author shotray
- * @since 2021/12/19 2:14
+ * @since 2021/12/19 2:14 ass
  */
 
 public class MovieInfoDto {
